@@ -1,0 +1,13 @@
+[
+    { "title": "AI Healthcare Assistant", "description": "AI bot for patient triage", "vision": "Affordable AI in clinics", "target_market": "Tier 2 cities", "upvotes": 43 },
+    { "title": "Rural E-Commerce", "description": "Deliver goods to villages", "vision": "Rural empowerment", "target_market": "Bihar, UP", "upvotes": 35 },
+    { "title": "Green Packaging", "description": "Eco-friendly D2C packaging", "vision": "Plastic-free India", "target_market": "E-commerce", "upvotes": 27 },
+    { "title": "Pet Tracker", "description": "GPS device for pets", "vision": "Pet safety tech", "target_market": "Urban pet owners", "upvotes": 51 },
+    { "title": "Startup Law Bot", "description": "Chatbot for legal help", "vision": "Free legal aid", "target_market": "New founders", "upvotes": 19 },
+    { "title": "Food Waste Recycler", "description": "Composting IoT bin", "vision": "Zero waste cities", "target_market": "Urban households", "upvotes": 28 },
+    { "title": "SkillBuddy", "description": "Upskilling app for students", "vision": "Jobs for all", "target_market": "Colleges", "upvotes": 60 },
+    { "title": "AutoBill POS", "description": "POS for street vendors", "vision": "Digital India", "target_market": "Small merchants", "upvotes": 37 },
+    { "title": "Campus Marketplace", "description": "Buy/sell inside campus", "vision": "Student resale economy", "target_market": "Universities", "upvotes": 24 },
+    { "title": "TeleDerm", "description": "Online dermatology platform", "vision": "Skin health access", "target_market": "Teens and elderly", "upvotes": 45 }
+  ]
+  

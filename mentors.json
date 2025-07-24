@@ -1,0 +1,13 @@
+[
+    { "name": "Dr. Mehta", "email": "mehta@example.com", "expertise": ["Healthcare", "AI"], "bio": "Medtech expert with 15 years experience" },
+    { "name": "Arjun Nair", "email": "arjun@example.com", "expertise": ["Funding", "Pitching"], "bio": "Ex-VC, current mentor" },
+    { "name": "Neha Bajaj", "email": "neha@example.com", "expertise": ["Branding", "Content"], "bio": "Helped 50 startups scale" },
+    { "name": "Farhan Ali", "email": "farhan@example.com", "expertise": ["Product", "Design"], "bio": "UX leader at unicorn" },
+    { "name": "Ritu Sharma", "email": "ritu@example.com", "expertise": ["Legal", "IP"], "bio": "Startup legal consultant" },
+    { "name": "Dr. Bose", "email": "bose@example.com", "expertise": ["BioTech"], "bio": "IIT Prof turned startup mentor" },
+    { "name": "Vinay Gupta", "email": "vinay@example.com", "expertise": ["Finance"], "bio": "Ex CFO, helps founders" },
+    { "name": "Sneha Rani", "email": "sneha@example.com", "expertise": ["HR", "Team Building"], "bio": "Helps build founding teams" },
+    { "name": "Nikhil Rao", "email": "nikhil@example.com", "expertise": ["Marketing"], "bio": "CMO at tech startup" },
+    { "name": "Kavita Das", "email": "kavita@example.com", "expertise": ["Growth", "Fundraising"], "bio": "Fundraising mentor" }
+  ]
+  

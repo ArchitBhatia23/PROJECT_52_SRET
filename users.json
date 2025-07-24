@@ -1,0 +1,13 @@
+[
+    { "username": "e0422001", "email": "user1@example.com", "role": "entrepreneur", "profile": { "name": "Amit", "skills": ["AI", "Pitching"], "bio": "Tech startup enthusiast" } },
+    { "username": "e0422002", "email": "user2@example.com", "role": "mentor", "profile": { "name": "Dr. Sinha", "skills": ["Business Strategy"], "bio": "10 years in VC" } },
+    { "username": "e0422003", "email": "user3@example.com", "role": "investor", "profile": { "name": "Anita Rao", "skills": ["Finance"], "bio": "Angel investor in healthtech" } },
+    { "username": "e0422004", "email": "user4@example.com", "role": "entrepreneur", "profile": { "name": "Rakesh", "skills": ["IoT"], "bio": "Hardware innovator" } },
+    { "username": "e0422005", "email": "user5@example.com", "role": "mentor", "profile": { "name": "Meena", "skills": ["Marketing"], "bio": "Branding expert" } },
+    { "username": "e0422006", "email": "user6@example.com", "role": "entrepreneur", "profile": { "name": "Kunal", "skills": ["Apps"], "bio": "App-based solutions" } },
+    { "username": "e0422007", "email": "user7@example.com", "role": "investor", "profile": { "name": "Rajeev", "skills": ["Finance"], "bio": "Private equity partner" } },
+    { "username": "e0422008", "email": "user8@example.com", "role": "mentor", "profile": { "name": "Sunita", "skills": ["Design Thinking"], "bio": "UX mentor" } },
+    { "username": "e0422009", "email": "user9@example.com", "role": "entrepreneur", "profile": { "name": "Lakshmi", "skills": ["SaaS"], "bio": "B2B founder" } },
+    { "username": "e0422010", "email": "user10@example.com", "role": "mentor", "profile": { "name": "Dr. Khan", "skills": ["Legal"], "bio": "Startup law advisor" } }
+  ]
+  

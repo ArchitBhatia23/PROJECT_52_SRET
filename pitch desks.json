@@ -1,0 +1,13 @@
+[
+    { "startup": "AI Healthcare Assistant", "link": "https://example.com/pitch1.pdf", "founder": "e0422001" },
+    { "startup": "Rural E-Commerce", "link": "https://example.com/pitch2.pdf", "founder": "e0422004" },
+    { "startup": "Pet Tracker", "link": "https://example.com/pitch3.pdf", "founder": "e0422005" },
+    { "startup": "SkillBuddy", "link": "https://example.com/pitch4.pdf", "founder": "e0422006" },
+    { "startup": "Food Waste Recycler", "link": "https://example.com/pitch5.pdf", "founder": "e0422007" },
+    { "startup": "Startup Law Bot", "link": "https://example.com/pitch6.pdf", "founder": "e0422009" },
+    { "startup": "Campus Marketplace", "link": "https://example.com/pitch7.pdf", "founder": "e0422003" },
+    { "startup": "TeleDerm", "link": "https://example.com/pitch8.pdf", "founder": "e0422008" },
+    { "startup": "Green Packaging", "link": "https://example.com/pitch9.pdf", "founder": "e0422002" },
+    { "startup": "AutoBill POS", "link": "https://example.com/pitch10.pdf", "founder": "e0422001" }
+  ]
+  

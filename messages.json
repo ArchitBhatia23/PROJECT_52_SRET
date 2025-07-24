@@ -1,0 +1,13 @@
+[
+    { "from": "e0422001", "to": "e0422002", "message": "Can you mentor my AI project?", "timestamp": "2025-07-01T10:00:00Z" },
+    { "from": "e0422002", "to": "e0422001", "message": "Sure, tell me more.", "timestamp": "2025-07-01T10:05:00Z" },
+    { "from": "e0422003", "to": "e0422001", "message": "Your pitch deck looks interesting.", "timestamp": "2025-07-02T09:00:00Z" },
+    { "from": "e0422001", "to": "e0422003", "message": "Thanks! Let me share the link.", "timestamp": "2025-07-02T09:02:00Z" },
+    { "from": "e0422004", "to": "e0422002", "message": "Hi, need design advice.", "timestamp": "2025-07-03T08:00:00Z" },
+    { "from": "e0422005", "to": "e0422006", "message": "Let's collaborate on this idea.", "timestamp": "2025-07-04T08:00:00Z" },
+    { "from": "e0422007", "to": "e0422001", "message": "Funding opportunity. Interested?", "timestamp": "2025-07-05T08:00:00Z" },
+    { "from": "e0422008", "to": "e0422009", "message": "Loved your vision!", "timestamp": "2025-07-06T08:00:00Z" },
+    { "from": "e0422009", "to": "e0422008", "message": "Thank you, ma'am!", "timestamp": "2025-07-06T08:01:00Z" },
+    { "from": "e0422010", "to": "e0422001", "message": "Legal terms explained in doc.", "timestamp": "2025-07-07T08:00:00Z" }
+  ]
+  
